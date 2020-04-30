@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppliAndroid</string>
+    <string name="typsa_name">EPSI</string>
+    <string name="zone1">ZONE 1 </string>
+    <string name="zone2">ZONE 2</string>
+    <string name="categoryTitle">RAYONS</string>
+    <string name="productsLView">PRODUITS</string>
+    <string name="GroupsLView">GROUPES</string>
+    <string name="studentName1">Maxime</string>
+    <string name="studentName2">Arthur</string>
+    <string name="studentName3">Sabrina</string>
+    <string name="logo_de_l_app">Logo de l\'app</string>
+
+
+</resources>
